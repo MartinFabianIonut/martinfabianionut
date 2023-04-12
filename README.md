@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning:  **Java, Python, .NET (C#), Web development (HTML 5, CSS 3, JavaScript, Ajax, jQuery, PHP 5)**
 
-- 📚 Education:  **Second-year computer science student at Babes-Bolyai University's mathematics and computer science college**
+- 📚 Education:  **Second-year computer science student at <em>Babes-Bolyai University</em>'s mathematics and computer science college**
 
 - 📫 How to reach me:  **martinfabian30@yahoo.com**
 
-- ⚡ My passions:  **As I pursue a career in computer science, my aim is to use technology to enhance the human experience. To me, this involves embracing diverse cultures and interests beyond just technology, including art, classical music, and literature.**
+- ⚡ My passions:  **As I pursue a career in computer science, my aim is to use technology to <em>enhance the human experience</em>. To me, this involves embracing diverse cultures and interests beyond just technology, including <i> art, classical music, and literature.</i>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
