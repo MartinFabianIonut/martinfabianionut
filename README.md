@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Fabian. I'm glad you got here!</h1>
 <h3 align="center">Charismatic and always smiling, I consider myself a man of fully lived experience. I'm someone who enjoys socializing and exchanging ideas to broaden my outlook on life.</h3>
 
-- 🔭 I’m currently working on:  [University projects](https://github.com/MartinFabianIonut/University)
+- 🔭 I’m currently working on:  **[University projects](https://github.com/MartinFabianIonut/University)**
 
 - 🌱 I’m currently learning:  **Java, Python, .NET (C#), Web development (HTML 5, CSS 3, JavaScript, Ajax, jQuery, PHP 5)**
 
