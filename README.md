@@ -1,15 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Fabian. I'm glad you got here!</h1>
-<h3 align="center">Charismatic and always smiling, I consider myself a man of fully lived experience. I'm someone who enjoys socializing and exchanging ideas to broaden my outlook on life.</h3>
+<h1 align="center">Hi there 👋, I'm Fabian. Welcome to my GitHub!</h1>
+<h3 align="center">A .NET Developer with a Passion for Cybersecurity and Creative Innovation</h3>
 
-- 🔭 I’m currently working on:  **[University projects](https://github.com/MartinFabianIonut/University)**
+<p align="center">
+  With nearly two years of professional experience as a .NET Developer, I'm dedicated to crafting secure and scalable applications that bridge the gap between technology and human experience. My journey in tech is driven by a blend of creativity, collaboration, and a constant desire to learn and innovate.
+</p>
 
-- 🌱 I’m currently learning:  **C#, C++, Java, Python, Web development (HTML 5, CSS 3, JavaScript, Ajax, jQuery, PHP 5, Ionic React)**
+- 🔭 **Current Projects**: Developing state-of-the-art .NET applications and contributing to AI-driven solutions.
+- 🌱 **Learning Focus**: Advancing my knowledge in cybersecurity and exploring innovative AI technologies.
+- 📚 **Education**: Pursuing a dual-master's degree in the EIT Digital Cybersecurity program at Babeș-Bolyai University and EURECOM University.
+- 📫 **Reach Out**: I'd love to connect via email at **martinfabian30@yahoo.com** or through [LinkedIn](https://linkedin.com/in/fabian-ionuț-martin-3041b2257).
 
-- 📚 Education:  **Third-year computer science student at <em>Babes-Bolyai University</em>'s mathematics and computer science college**
-
-- 📫 How to reach me:  **martinfabian30@yahoo.com**
-
-- ⚡ My passions:  **As I pursue a career in computer science, my aim is to use technology to <em>enhance the human experience</em>. To me, this involves embracing diverse cultures and interests beyond just technology, including <i> art, classical music, and literature.</i>**
+- 🚀 **Passions**: I'm committed to using technology to enhance human experiences while enjoying art, classical music, literature, and engaging in thought-provoking discussions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +20,29 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="40" height="40"/>
+  </a> 
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure devops" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/aspire/" target="_blank" rel="noreferrer">
+    <img src="https://learn.microsoft.com/en-us/dotnet/aspire/assets/dotnet-aspire-logo-128.svg" alt=".NET ASPIRE" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/services/service-fabric/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="azure service fabric" width="40" height="40"/>
+  </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue.js" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="left">
+  <strong>Skills:</strong> Clean Architecture, CI/CD, Communication, Adaptability, Team Leadership
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinfabianionut&show_icons=true&locale=en&layout=compact&border_radius=25&bg_color=0d1117&langs_count=8&text_color=FFFFFF&border_color=1F385C" alt="martinfabianionut" /></p>
